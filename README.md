@@ -9,7 +9,7 @@ Created in collaboration with [Reddyboi85](https://github.com/Reddyboi85) for th
 
 <img width="630" height="500" alt="a hallway but cover" src="https://github.com/user-attachments/assets/5e60acfe-d4e7-4c8b-9ba4-ca11c4a8d9dd" />
 
-**[Play A Hallway, But... on Itch.io](https://ozald.itch.io/beyond-the-depths)**
+**[Play A Hallway, But... on Itch.io](https://redd855.itch.io/a-hallway-but)**
 
 ## Controls
 WASD / Arrow Keys -- Movement<br>
